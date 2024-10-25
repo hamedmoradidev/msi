@@ -17,7 +17,7 @@ Technologies used in the project:
 
 <h2>Project Screenshot:</h2>
 
-<img src="https://github.com/user-attachments/assets/e5548ba3-215f-40bd-9490-8861e50a4f29" alt="project-screenshot" width="1000" height="500/">
+<img src="https://github.com/user-attachments/assets/cc6cb010-bbbc-45f8-acdb-8e22ddd17978" alt="project-screenshot" width="1000" height="500/">
 
 
   
