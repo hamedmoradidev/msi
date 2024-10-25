@@ -169,6 +169,10 @@ main{
         >div{
             &:last-of-type{
                 margin-top: 50px;
+                width: 100%;
+                >img{
+                    width: 100%;
+                }
             }
         }
         >.innerLatest{
@@ -262,6 +266,7 @@ main{
                         height: 100%;
                         width: 100%;
                         transition: 0.5s;
+                        object-fit: cover;
                     }
                 }
                 >div{
