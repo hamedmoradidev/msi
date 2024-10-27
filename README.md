@@ -4,7 +4,7 @@
 
 <h2>🚀 Demo</h2>
 
-[https://hamedmoradidev.github.io/MSI/](https://hamedmoradidev.github.io/MSI/)
+[https://hamedmoradidev.github.io/MSI/](https://hamedmoradidev.github.io/msi/)
 
 <h2>💻 Built with</h2>
 
